@@ -33,9 +33,7 @@ Examen_Segundo_Interciclo/
 │  └─ Segundo_Cuaderno_Examen.ipynb
 ├─ Aplicación/
 │  ├─ requirements.txt
-│  └─ app/
-│     ├─ app.py
-│     └─ utils.py (opcional)
+│  └─ app
 └─ assets/
    ├─ 01_estructura_dataset.png
    ├─ 02_mlflow_runs.png
